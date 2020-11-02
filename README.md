@@ -1,7 +1,7 @@
 # Avance de Trabajo de Infografía *animales y delimitación urbana*
 ## Estructura Infografía
 
-**IMAGEN CABECERA **
+**IMAGEN CABECERA**
 
 **“TITULO ATRACTIVO”**
 Los pumas se rebelan(?) :tiger2:
