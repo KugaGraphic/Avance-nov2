@@ -30,4 +30,5 @@ Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [
 - [LEY 20380. SOBRE PROTECCIÓN DE ANIMALES](http://bcn.cl/2idag) 
 Artículo 1°.- Esta ley establece normas destinadas a conocer, proteger y respetar a los animales, como seres vivos y parte de la naturaleza, con el fin de darles un trato adecuado y evitarles sufrimientos innecesarios.
 Artículo 3°.- Toda persona que, a cualquier título, tenga un animal, debe cuidarlo y proporcionarle alimento y albergue adecuados, de acuerdo, al menos, a las necesidades mínimas de cada especie y categoría y a los antecedentes aportados por la ciencia y la experiencia.
+##La libertad de movimiento de los animales silvestres no debe ser restringida de manera innecesaria, especialmente si ello les ocasione sufrimiento y alteración de su normal desarrollo.
 ## Referentes de estilo
