@@ -7,7 +7,7 @@
 
 **“TITULO ATRACTIVO”**
 
-#*Los pumas se rebelan*
+# *Los pumas se rebelan*
  (titulo placeholder) :tiger2:
 
 **BAJADA INTRODUCTORIA**
