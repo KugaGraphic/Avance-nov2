@@ -2,6 +2,7 @@
 ## Estructura Infografía
 
 **IMAGEN PRINCIPAL/CABECERA**
+
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/cabecera.png)
 
 **“TITULO ATRACTIVO”**
