@@ -64,10 +64,10 @@ Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [
 
 >**La libertad de movimiento de los animales silvestres no debe ser restringida de manera innecesaria, especialmente si ello les ocasione sufrimiento y alteración de su normal desarrollo**
 
--[Un nuevo lucro: la desafectación de áreas verdes](https://www.ciperchile.cl/2013/02/19/un-nuevo-lucro-la-desafectacion-de-areas-verdes/)
+- :page_with_curl:[Un nuevo lucro: la desafectación de áreas verdes](https://www.ciperchile.cl/2013/02/19/un-nuevo-lucro-la-desafectacion-de-areas-verdes/)
 En 2004, a través de la Ley Nº 19.939, el Congreso modificó la Ley General de Urbanismo y Construcciones (LGUC) para fijar una caducidad de cinco y diez años a la declaratoria de utilidad pública de terrenos urbanos. Al cumplirse el plazo, el terreno pasaría automáticamente a tener otro uso. Desde entonces, las áreas verdes han ido desapareciendo para dar espacio a nuevos proyectos inmobiliarios. En febrero de 2004, a través de la Ley Nº 19.939, y a instancias de Jaime Ravinet, ministro de Vivienda y Urbanismo (Minvu) de la época, los parlamentarios en ejercicio cometieron un garrafal error, algunos de ellos sin sospechar sus consecuencias. Así, modificaron el artículo 59º de la Ley General de Urbanismo y Construcciones (LGUC), fijándole una caducidad de cinco y diez años a la declaratoria de utilidad pública de los terrenos definidos como ensanches y aperturas de calles, parques intercomunales y comunales, localizados en las áreas urbanas y de extensión urbana consultados en los planes reguladores de todas las comunas y en los planes intercomunales de las regiones que contaban con dichos instrumentos de mayor rango.
 
--[Modificación al Plano Regulador Metropolitano de Santiago](https://www.ciperchile.cl/2014/02/17/aprobacion-del-prms100-y-la-%E2%80%9Ccaptura-del-estado%E2%80%9D-por-el-poder-economico/)
+- :page_with_curl:[Modificación al Plano Regulador Metropolitano de Santiago](https://www.ciperchile.cl/2014/02/17/aprobacion-del-prms100-y-la-%E2%80%9Ccaptura-del-estado%E2%80%9D-por-el-poder-economico/)
 Esta modificación, conocida como PRMS100, no sólo consiste en transformar 10 mil hectáreas agrícolas a urbanas, habilitándolas como Zonas Urbanas Condicionadas (ZUC). Son muchísimas más las hectáreas agrícolas que estaban establecidas en el PRMS vigente hasta esta promulgación, que se habilitan como urbanas, sin los condicionamientos establecidos para las Zonas Urbanas Condicionadas.
 
 ## Referentes de estilo
