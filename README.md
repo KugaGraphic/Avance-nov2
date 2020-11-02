@@ -3,14 +3,11 @@
 
 **IMAGEN CABECERA**
 
-**“TITULO ATRACTIVO”**
-*Los pumas se rebelan(?)* :tiger2:
+**“TITULO ATRACTIVO”** *Los pumas se rebelan(?)* :tiger2:
 
 **BAJADA INTRODUCTORIA**
 
-**MAPA CON AVISTAMIENTOS**
-
-(que contiene links a las noticias de sus avistamientos).
+**MAPA CON AVISTAMIENTOS** (que contiene links a las noticias de sus avistamientos).
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/map.png)
 
 **INFO**
