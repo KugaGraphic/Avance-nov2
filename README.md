@@ -32,3 +32,4 @@ Artículo 1°.- Esta ley establece normas destinadas a conocer, proteger y respe
 Artículo 3°.- Toda persona que, a cualquier título, tenga un animal, debe cuidarlo y proporcionarle alimento y albergue adecuados, de acuerdo, al menos, a las necesidades mínimas de cada especie y categoría y a los antecedentes aportados por la ciencia y la experiencia.
 ## La libertad de movimiento de los animales silvestres no debe ser restringida de manera innecesaria, especialmente si ello les ocasione sufrimiento y alteración de su normal desarrollo.
 ## Referentes de estilo
+![Alt text](/relative/path/to/mood%20kawaii.png?raw=true "Moodboard referente estilo")
