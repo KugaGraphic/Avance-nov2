@@ -62,9 +62,10 @@ Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [
 >**La libertad de movimiento de los animales silvestres no debe ser restringida de manera innecesaria, especialmente si ello les ocasione sufrimiento y alteración de su normal desarrollo**
 
 ## Referentes de estilo
-
+Apuntamos a lograr generar una estética de estilo kawaii para gráficar la información. 
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/kawaii.png)
 
+Utilizaremos un recurso de pictoline, el cual consta de integrar personajes atingentes al tema, y reconocidos por el colectivo social, para ejemplificar el tema a tratar.
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/Ref1.png)
 
 
