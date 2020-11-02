@@ -1,14 +1,16 @@
 # Avance de Trabajo de Infografía *animales y delimitación urbana*
 ## Estructura Infografía
 
-**IMAGEN CABECERA**
+**IMAGEN KAWAI**
+(ilustrado por Dessi)
 
-**“TITULO ATRACTIVO”** *Los pumas se rebelan(?)* :tiger2:
+**“TITULO ATRACTIVO”**
+Los pumas se rebelan(?) :tiger2:
 
 **BAJADA INTRODUCTORIA**
 
-**MAPA CON AVISTAMIENTOS** (que contiene links a las noticias de sus avistamientos).
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/map.png)
+**MAPA CON AVISTAMIENTOS**
+(que contiene links a las noticias de sus avistamientos).
 
 **INFO**
 1. Aumento de avistamientos por covid
@@ -17,8 +19,6 @@
 4. Protocolos de rescate y reinserción
 5. Derechos de animales en constitución
 6. Cambios a considerar para la Nueva constitución
-
-
 
 ## Información Infografia
 Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [drive](https://docs.google.com/document/d/1reXo6DDKXzos1mNe5oxarAWx1qf50OM49suVUDWXtjg/edit?usp=sharing)
@@ -53,7 +53,7 @@ Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [
 >“En la medida que el agua escasea, avanza la desertificación, la erosión y se empobrecen los ecosistemas. En la medida que se reduce la trama vegetal, se reducen las poblaciones dependientes de ellas, incluyendo a los herbívoros, omnívoros y finalmente carnívoros. Estos deben migrar o perecer si ya no pueden acceder a agua o alimento”, afirmó el profesor Cristóbal Briceño, académico del Departamento de Medicina Preventiva Animal de Favet.
 
 
-- [LEY 20380. SOBRE PROTECCIÓN DE ANIMALES](http://bcn.cl/2idag) 
+:page_with_curl:[LEY 20380. SOBRE PROTECCIÓN DE ANIMALES](http://bcn.cl/2idag) 
 
 >Artículo 1°.- Esta ley establece normas destinadas a conocer, proteger y respetar a los animales, como seres vivos y parte de la naturaleza, con el fin de darles un trato adecuado y evitarles sufrimientos innecesarios.
 
