@@ -14,7 +14,7 @@ Los pumas se rebelan(?)
 
 **INFO**
 1. Aumento de avistamientos por covid
-2. Motivos por lo que bajan/naturaleza del puma
+2. Motivos por lo que bajan/naturaleza del puma (giff de camaras ocultas)
 3. Apropiamiento del hábitat animal y delimitación de la urbanización
 4. Protocolos de rescate y reinserción
 5. Derechos de animales en constitución
@@ -29,3 +29,4 @@ Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [
 - [La razón por la que pumas han aparecido en céntricas comunas de Santiago](https://www.24horas.cl/nacional/la-razon-por-la-que-pumas-han-aparecido-en-centricas-comunas-de-santiago-4058544)
 - [LEY 20380. SOBRE PROTECCIÓN DE ANIMALES](http://bcn.cl/2idag)
 ## Referentes de estilo
+![alt text][mood kawaii.png]
