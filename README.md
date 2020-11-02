@@ -65,6 +65,6 @@ Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [
 
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/kawaii.png)
 
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/Ref1.jpeg)
+![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/Ref1.png)
 
 
