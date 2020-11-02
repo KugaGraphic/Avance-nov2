@@ -33,5 +33,5 @@ Artículo 3°.- Toda persona que, a cualquier título, tenga un animal, debe cui
 ## La libertad de movimiento de los animales silvestres no debe ser restringida de manera innecesaria, especialmente si ello les ocasione sufrimiento y alteración de su normal desarrollo.
 ## Referentes de estilo
 
-![Alt text](/relative/path/to/https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/main/images/mood%20kawaii.png?raw=true "Moodboard referente estilo")
+![Alt text](/relative/path/to/https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/main/images/mood%20kawaii.png? raw=true "Moodboard referente estilo")
 
