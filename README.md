@@ -6,7 +6,8 @@
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/img1.png)
 
 **“TITULO ATRACTIVO”**
-*Los pumas se rebelan(?)* :tiger2:
+#*Los pumas se rebelan*
+ (titulo placeholder) :tiger2:
 
 **BAJADA INTRODUCTORIA**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mauris massa, consectetur vel quam a, pulvinar aliquam lacus. Phasellus sed arcu turpis. Integer venenatis leo ut tellus interdum, et finibus dui facilisis. Vivamus sit amet posuere tortor. Aliquam ut nibh non purus tincidunt laoreet non at justo. Suspendisse sed felis sollicitudin, pharetra risus in, consectetur enim. Morbi lobortis erat arcu, ac placerat urna tristique id. Nunc eu est vitae dui laoreet efficitur sed in lacus. Phasellus augue dolor, ultricies ac ullamcorper quis, suscipit eget arcu.
