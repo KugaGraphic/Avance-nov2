@@ -1,8 +1,7 @@
 # Avance de Trabajo de Infografía *animales y delimitación urbana*
 ## Estructura Infografía
 
-**IMAGEN KAWAI**
-(ilustrado por Dessi)
+**IMAGEN CABECERA **
 
 **“TITULO ATRACTIVO”**
 Los pumas se rebelan(?) :tiger2:
@@ -11,6 +10,7 @@ Los pumas se rebelan(?) :tiger2:
 
 **MAPA CON AVISTAMIENTOS**
 (que contiene links a las noticias de sus avistamientos).
+![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/map.png)
 
 **INFO**
 1. Aumento de avistamientos por covid
@@ -20,7 +20,7 @@ Los pumas se rebelan(?) :tiger2:
 5. Derechos de animales en constitución
 6. Cambios a considerar para la Nueva constitución
 
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/map.png)
+
 
 ## Información Infografia
 Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [drive](https://docs.google.com/document/d/1reXo6DDKXzos1mNe5oxarAWx1qf50OM49suVUDWXtjg/edit?usp=sharing)
