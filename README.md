@@ -1,13 +1,17 @@
 # Avance de Trabajo de Infografía *animales y delimitación urbana*
 ## Estructura Infografía
 
-**IMAGEN KAWAI**.
-(ilustrado por Dessi).
-**“TITULO ATRACTIVO”**.
-Los pumas se rebelan(?).
-**BAJADA INTRODUCTORIA**.
-**MAPA CON AVISTAMIENTOS**.
+**IMAGEN KAWAI**
+(ilustrado por Dessi)
+
+**“TITULO ATRACTIVO”**
+Los pumas se rebelan(?)
+
+**BAJADA INTRODUCTORIA**
+
+**MAPA CON AVISTAMIENTOS**
 (que contiene links a las noticias de sus avistamientos).
+
 **INFO**
 1. Aumento de avistamientos por covid
 2. Motivos por lo que bajan/naturaleza del puma
