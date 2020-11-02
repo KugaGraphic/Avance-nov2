@@ -1,21 +1,21 @@
 # Avance de Trabajo de Infografía *animales y delimitación urbana*
-## Estructura Infografía
+## Estructura de Infografía
 
-**IMAGEN PRINCIPAL/CABECERA**
+* **IMAGEN PRINCIPAL/CABECERA**
 
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/img1.png)
 
-**“TITULO ATRACTIVO”**
+* **“TITULO ATRACTIVO”**
 *Los pumas se rebelan* (titulo placeholder) :tiger2:
 
-**BAJADA INTRODUCTORIA**
+* **BAJADA INTRODUCTORIA**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mauris massa, consectetur vel quam a, pulvinar aliquam lacus. Phasellus sed arcu turpis. Integer venenatis leo ut tellus interdum, et finibus dui facilisis. Vivamus sit amet posuere tortor. Aliquam ut nibh non purus tincidunt laoreet non at justo. Suspendisse sed felis sollicitudin, pharetra risus in, consectetur enim. Morbi lobortis erat arcu, ac placerat urna tristique id. Nunc eu est vitae dui laoreet efficitur sed in lacus. Phasellus augue dolor, ultricies ac ullamcorper quis, suscipit eget arcu.
 
-**MAPA CON AVISTAMIENTOS**
+* **MAPA CON AVISTAMIENTOS**
 (que contiene links a las noticias de sus avistamientos).
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/map.png)
 
-**INFO**
+* **ORDEN INFO**
 1. Aumento de avistamientos por covid
 2. Motivos por lo que bajan/naturaleza del puma
 3. Apropiamiento del hábitat animal y delimitación de la urbanización
@@ -23,8 +23,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mauris massa, con
 5. Derechos de animales en constitución
 6. Cambios a considerar para la Nueva constitución
 
-## Información Infografia
-Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [drive](https://docs.google.com/document/d/1reXo6DDKXzos1mNe5oxarAWx1qf50OM49suVUDWXtjg/edit?usp=sharing)
+## FUENTES
+Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [drive](https://docs.google.com/document/d/1reXo6DDKXzos1mNe5oxarAWx1qf50OM49suVUDWXtjg/edit?usp=sharing). A continuación presentamos un resumen de la información encontrada
 
 
 - [Varios pumas se pasean por las calles vacias de Santiago de Chile](https://www.lavanguardia.com/cribeo/fauna/20200403/48281739203/varios-pumas-pasean-por-calles-vacias-santiago-chile-confinamiento-coronavirus.html)
