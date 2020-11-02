@@ -3,7 +3,7 @@
 
 **IMAGEN PRINCIPAL/CABECERA**
 
-![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/cabecera.png)
+![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/img1.png)
 
 **“TITULO ATRACTIVO”**
 *Los pumas se rebelan(?)* :tiger2:
