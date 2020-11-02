@@ -17,6 +17,6 @@ Los pumas se rebelan(?)
 6. Cambios a considerar para la Nueva constitución
 
 
-### Información Infografia
+## Información Infografia
 Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [drive](https://docs.google.com/document/d/1reXo6DDKXzos1mNe5oxarAWx1qf50OM49suVUDWXtjg/edit?usp=sharing)
-#### Referentes de estilo
+## Referentes de estilo
