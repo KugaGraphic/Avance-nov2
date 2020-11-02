@@ -1,5 +1,5 @@
-# Avance de Trabajo de Infografía *animales y delimitación urbana*
-## Estructura de Infografía
+:clapper: # Avance de Trabajo de Infografía *animales y delimitación urbana*
+## Estructura de Infografía :memo:
 
 * **IMAGEN PRINCIPAL/CABECERA**
 
@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mauris massa, con
 5. Derechos de animales en constitución
 6. Cambios a considerar para la Nueva constitución
 
-## FUENTES
+## FUENTES :books: :books:
 Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [drive](https://docs.google.com/document/d/1reXo6DDKXzos1mNe5oxarAWx1qf50OM49suVUDWXtjg/edit?usp=sharing). A continuación presentamos un resumen de la información encontrada
 
 
@@ -70,7 +70,7 @@ En 2004, a través de la Ley Nº 19.939, el Congreso modificó la Ley General de
 - :page_with_curl:[Modificación al Plano Regulador Metropolitano de Santiago](https://www.ciperchile.cl/2014/02/17/aprobacion-del-prms100-y-la-%E2%80%9Ccaptura-del-estado%E2%80%9D-por-el-poder-economico/)
 Esta modificación, conocida como PRMS100, no sólo consiste en transformar 10 mil hectáreas agrícolas a urbanas, habilitándolas como Zonas Urbanas Condicionadas (ZUC). Son muchísimas más las hectáreas agrícolas que estaban establecidas en el PRMS vigente hasta esta promulgación, que se habilitan como urbanas, sin los condicionamientos establecidos para las Zonas Urbanas Condicionadas.
 
-## Referentes de estilo
+## Referentes de estilo :art:
 Apuntamos a lograr generar una estética de estilo kawaii para gráficar la información. 
 ![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/kawaii.png)
 
