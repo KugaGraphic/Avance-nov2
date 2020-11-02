@@ -1,4 +1,4 @@
-:clapper: # Avance de Trabajo de Infografía *animales y delimitación urbana*
+:clapper: Avance de Trabajo de Infografía *animales y delimitación urbana*
  ## :memo::memo: Estructura de Infografía :memo::memo:
 
 * **IMAGEN PRINCIPAL/CABECERA**
