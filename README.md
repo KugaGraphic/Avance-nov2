@@ -64,5 +64,5 @@ Artículo 3°.- Toda persona que, a cualquier título, tenga un animal, debe cui
 
 [logo]: https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/main/images/mood%20kawaii.png
 
-![ScreenShot](https://raw.github.com/{KugaGraphic}/{Avance-nov2}/{tree}/{mood kawaii.png})
+
 
