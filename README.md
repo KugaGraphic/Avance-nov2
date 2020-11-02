@@ -20,6 +20,8 @@ Los pumas se rebelan(?) :tiger2:
 5. Derechos de animales en constitución
 6. Cambios a considerar para la Nueva constitución
 
+![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov2/gh-pages/images/map.png)
+
 ## Información Infografia
 Es mucha información la que recopilamos, por lo que la ordenamos dentro de un [drive](https://docs.google.com/document/d/1reXo6DDKXzos1mNe5oxarAWx1qf50OM49suVUDWXtjg/edit?usp=sharing)
 
