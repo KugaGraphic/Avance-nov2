@@ -1,8 +1,7 @@
 # Avance de Trabajo de Infografía *animales y delimitación urbana*
 ## Estructura Infografía
 
-**IMAGEN KAWAI**
-(ilustrado por Dessi)
+**IMAGEN PRINCIPAL/CABECERA**
 
 **“TITULO ATRACTIVO”**
 *Los pumas se rebelan(?)* :tiger2:
